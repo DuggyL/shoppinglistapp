@@ -29,7 +29,7 @@ onValue(shoppingListDB, function(snapshot) {
             appendShoppingListEl(currentItem)
         }
     } else {
-        shoppingListEl.innerHTML = "No shopping needed"
+        shoppingListEl.innerHTML = ""
     }
 })
 
