@@ -13,14 +13,14 @@ htmnl, body {
 
 input {
     font-family: "M PLUS Rounded 1c", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     font-size: 22px;
     text-align: center;
     border: 0;
     padding: 8px;
     border-radius: 22px;
-    color: #416db5;
+    color: #24336c;
     background-color: #e7e7e8;
 }
 
